@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'apiHBmodel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA72F883BF254002922165594CB4CCFC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B0E6598F4474903A48485A84E7E61A8 }}
